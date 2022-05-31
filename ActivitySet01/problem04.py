@@ -1,3 +1,4 @@
+#conditional execution
 hrs = input("Enter hours:")
 h = float(hrs)
 rate=input("Enter Rate :")

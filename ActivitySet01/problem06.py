@@ -1,3 +1,5 @@
+#Functions
+
 def computepay(h,r):
     if h > 40:
         p = 1.5 * r * (h - 40) + (40 *r)
@@ -12,3 +14,4 @@ rphr = float(rphrs)
 
 p = computepay(hr,rphr)
 print("Pay",p)
+
